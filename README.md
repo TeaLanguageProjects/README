@@ -7,6 +7,8 @@ If you need to provide suggestions for the language itself, please provide issus
 
 (This project is currently under development, please be patient and wait for the completion of the project)
 
+(There is currently no clear logo for the project, and the logos you see are all temporary)
+
 ---
 
 We plan to develop Tea language virtual machines using 2 different languages:
