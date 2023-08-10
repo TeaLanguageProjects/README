@@ -11,12 +11,8 @@ If you need to provide suggestions for the language itself, please provide issus
 
 We plan to develop Tea language virtual machines using 2 different languages:
 
-***TeaVM-CSharp:***
+***TeaVM-CSharp:*** Fastest update, but running efficiency may be low (running on C# CLR)
 
-Fastest update, but running efficiency may be low (running on C # CLR)
-
-***TeaVM-Cpp:***
-
-Slow update but more efficient operation
+***TeaVM-Cpp:*** Slow update but more efficient operation
 
 Because the project has just been established, there is currently only one version of virtual machine (TeaVM-CSharp) available. Another version (TeaVM-Cpp) will be launched in the future.
